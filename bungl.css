@@ -1,0 +1,9 @@
+.image-container img {
+    width: 200px;
+    height: 200px;
+
+    transition: width 0.3s ease; /* Smooth transition effect */
+    cursor: pointer; /* Cursor changes to pointer on hover */
+}
+
+
